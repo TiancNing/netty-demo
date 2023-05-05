@@ -41,6 +41,8 @@ public class AioFileChannel {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        //并与清楚
+        System.out.println("hello");
         System.in.read();
     }
 }
