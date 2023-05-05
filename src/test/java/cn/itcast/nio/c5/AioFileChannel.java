@@ -43,6 +43,7 @@ public class AioFileChannel {
         }
         //并与清楚
         System.out.println("hello");
+        System.out.println("tiancn add");
         System.in.read();
     }
 }
